@@ -1,5 +1,3 @@
-# Project Repository
-
 ## Overview
 This repository contains a Jupyter Notebook that utilizes machine learning and data visualization libraries for data analysis. The data has been anonymized to ensure privacy.
 
